@@ -115,18 +115,6 @@ Key focus areas include:
 
 ---
 
-## Repository Structure
-
-```bash
-elite-java-mastery/
-│
-├── phase-01-core-fundamentals/
-│
-└── phase-02-advanced-logic-and-algorithms/
-```
-
----
-
 ## Learning Philosophy
 
 Focused on building strong engineering fundamentals through consistency-driven problem solving, progressive algorithmic practice, and structured technical learning.
