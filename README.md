@@ -1,4 +1,4 @@
-# Elite Java Mastery
+# Elite - Java Mastery Log
 
 Structured Java problem-solving archive documenting consistent progress in Data Structures, Algorithms, logical reasoning, and placement-oriented engineering practice.
 
