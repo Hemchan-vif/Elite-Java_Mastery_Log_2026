@@ -43,7 +43,7 @@ The archive contains curated daily practice sessions, technical exercises, and a
 | Timeline | Learning Domain | Technical Areas Covered |
 |----------|----------------|--------------------------|
 | Jan 21 – Jan 30, 2026 | Programming Fundamentals | Output formatting, control flow, looping constructs, mathematical series, numerical computation, and pattern-based logic |
-| Feb 01 – Feb 06, 2026 | Array Logic & Manipulation | Array traversal, subarray processing, sliding window techniques, monotonic validation, searching, and rearrangement operations |
+| Feb 02 – Feb 06, 2026 | Array Logic & Manipulation | Array traversal, subarray processing, sliding window techniques, monotonic validation, searching, and rearrangement operations |
 
 ---
 
@@ -152,18 +152,6 @@ Strengthened function-based implementations, arithmetic operations, and modular 
 Implemented game-oriented algorithmic logic, simulation techniques, and strategic conditional processing.
 
 🔗 [View Training Resource](./phase-01-core-fundamentals/2026-01-30-game-logic-and-algorithms.pdf)
-
----
-
-### 🟨 Feb 01, 2026 — Introduction to 1D Arrays
-
-![Platform](https://img.shields.io/badge/Platform-HackerRank-blue)
-![Problems](https://img.shields.io/badge/Problems-10-success)
-![Format](https://img.shields.io/badge/Format-PDF-orange)
-
-Introduced core array traversal techniques, indexing operations, and sequential data manipulation.
-
-🔗 [View Training Resource](./phase-01-core-fundamentals/2026-02-01-1d-arrays-introduction.pdf)
 
 ---
 
