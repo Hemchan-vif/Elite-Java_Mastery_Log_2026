@@ -62,7 +62,7 @@ Key focus areas include:
 
 ---
 
-## Daily Engineering Practice Log
+## Daily Practice Log
 
 ### Phase 01 — Core Programming Foundations
 
@@ -100,7 +100,7 @@ Key focus areas include:
 
 ---
 
-## 💻 Technical Competencies Strengthened
+## Technical Competencies Strengthened
 
 - Java Programming
 - Data Structures & Algorithms
@@ -127,7 +127,7 @@ elite-java-mastery/
 
 ---
 
-## 📌 Learning Philosophy
+## Learning Philosophy
 
 Focused on building strong engineering fundamentals through consistency-driven problem solving, progressive algorithmic practice, and structured technical learning.
 
