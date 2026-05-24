@@ -11,11 +11,12 @@ Structured engineering archive documenting progressive Java problem-solving prac
 
 ## Repository Overview
 
-This repository represents a structured record of my progression through Elite Java Training, focused on strengthening core programming fundamentals, logical reasoning, and advanced problem-solving capabilities using Java.
+This repository represents a structured record of my progression through Elite Java Training, focused on strengthening programming fundamentals, logical reasoning, and advanced problem-solving capabilities using Java.
 
 The archive contains curated daily practice sessions, technical exercises, and algorithmic implementations completed across multiple phases of intensive placement preparation.
 
-Key focus areas include:
+### Core Engineering Focus Areas
+
 - Data Structures & Algorithms
 - Logical Problem Solving
 - Java Programming
@@ -62,45 +63,283 @@ Key focus areas include:
 
 ---
 
-## Daily Practice Log
-
-### Phase 01 — Core Programming Foundations
-
-| Date | Practice Module | Platform | Problem Volume | Resource Format |
-|------|------------------|-----------|----------------|-----------------|
-| Jan 21, 2026 | Output Formatting & Precision Handling | HackerRank | 14 | PDF |
-| Jan 22, 2026 | Conditional Flow Control | HackerRank | 10 | PDF |
-| Jan 23, 2026 | Iterative Logic & Numerical Series | HackerRank | 15 | PDF |
-| Jan 27, 2026 | Pattern Construction & Logic Building | HackerRank | 7 | PDF |
-| Jan 28, 2026 | Mathematical Computation & Number Logic | HackerRank | 14 | PDF |
-| Jan 29, 2026 | Functional Logic & Arithmetic Operations | LeetCode | 11 | PDF |
-| Jan 30, 2026 | Algorithmic Game Logic | LeetCode | 21 | PDF |
-| Feb 01, 2026 | Introduction to 1D Arrays | HackerRank | ~10 | PDF |
-| Feb 02, 2026 | Array Traversal & Validation Techniques | HackerRank | 11 | PDF |
-| Feb 03, 2026 | Array Searching & Extreme Value Analysis | HackerRank | 10 | PDF |
-| Feb 04, 2026 | Simulation-Based Array Problems | HackerRank | ~10 | PDF |
-| Feb 05, 2026 | Subarray Processing & Sliding Window | LeetCode | ~10 | PDF |
-| Feb 06, 2026 | Array Rearrangement & Sorting Logic | HackerRank | ~10 | PDF |
+# Daily Engineering Practice Archive
 
 ---
 
-### Phase 02 — Advanced Logic & Algorithmic Practice
-
-| Date | Practice Module | Platform | Problem Volume | Resource Format |
-|------|------------------|-----------|----------------|-----------------|
-| Feb 25, 2026 | 2D Arrays & Matrix Operations | HackerRank | 10 | Markdown |
-| Feb 26, 2026 | Advanced Matrix Validation Techniques | HackerRank | 10 | Markdown |
-| Feb 27, 2026 | Spiral Matrix Patterns & Mathematical Logic | HackerRank | 3 | Markdown |
-| Mar 02, 2026 | String Manipulation & Anagram Analysis | HackerRank | 7 | Markdown |
-| Mar 03, 2026 | Fundamental String Processing | OneCompiler | 20 | Markdown |
-| Mar 04, 2026 | Advanced String Transformations | HackerRank | 13 | Markdown |
-| Mar 06, 2026 | Array Computation & Running Sum Logic | LeetCode | 9 | Markdown |
-| Mar 10, 2026 | Binary Search & String Algorithms | LeetCode / HackerRank | 8 | Markdown |
-| Mar 11, 2026 | Frequency Analysis & Array Replacement Logic | HackerRank | 6 | Markdown |
+# Phase 01 — Core Programming Foundations
 
 ---
 
-## Technical Competencies Strengthened
+### 🟦 Jan 21, 2026 — Output Formatting & Precision Handling
+
+![Platform](https://img.shields.io/badge/Platform-HackerRank-blue)
+![Problems](https://img.shields.io/badge/Problems-14-success)
+![Format](https://img.shields.io/badge/Format-PDF-orange)
+
+Focused on formatted output generation, precision handling, and foundational Java syntax implementation.
+
+🔗 [View Training Resource](./phase-01-core-fundamentals/2026-01-21-output-formatting-and-precision.pdf)
+
+---
+
+### 🟩 Jan 22, 2026 — Conditional Flow Control
+
+![Platform](https://img.shields.io/badge/Platform-HackerRank-blue)
+![Problems](https://img.shields.io/badge/Problems-10-success)
+![Format](https://img.shields.io/badge/Format-PDF-orange)
+
+Covered conditional branching, nested decision structures, and logical validation techniques using Java.
+
+🔗 [View Training Resource](./phase-01-core-fundamentals/2026-01-22-conditional-statements.pdf)
+
+---
+
+### 🟨 Jan 23, 2026 — Iterative Logic & Numerical Series
+
+![Platform](https://img.shields.io/badge/Platform-HackerRank-blue)
+![Problems](https://img.shields.io/badge/Problems-15-success)
+![Format](https://img.shields.io/badge/Format-PDF-orange)
+
+Practiced looping constructs, numerical sequence generation, iterative processing, and mathematical computation logic.
+
+🔗 [View Training Resource](./phase-01-core-fundamentals/2026-01-23-looping-and-number-series.pdf)
+
+---
+
+### 🟪 Jan 27, 2026 — Pattern Construction & Logic Building
+
+![Platform](https://img.shields.io/badge/Platform-HackerRank-blue)
+![Problems](https://img.shields.io/badge/Problems-7-success)
+![Format](https://img.shields.io/badge/Format-PDF-orange)
+
+Focused on logical pattern construction, nested iteration handling, and structured output generation.
+
+🔗 [View Training Resource](./phase-01-core-fundamentals/2026-01-27-logic-building-and-star-patterns.pdf)
+
+---
+
+### 🟥 Jan 28, 2026 — Mathematical Computation & Number Logic
+
+![Platform](https://img.shields.io/badge/Platform-HackerRank-blue)
+![Problems](https://img.shields.io/badge/Problems-14-success)
+![Format](https://img.shields.io/badge/Format-PDF-orange)
+
+Worked on arithmetic computation, numerical analysis, divisibility logic, and mathematical problem-solving techniques.
+
+🔗 [View Training Resource](./phase-01-core-fundamentals/2026-01-28-number-crunching-and-math-logic.pdf)
+
+---
+
+### 🟦 Jan 29, 2026 — Functional Logic & Arithmetic Operations
+
+![Platform](https://img.shields.io/badge/Platform-LeetCode-yellow)
+![Problems](https://img.shields.io/badge/Problems-11-success)
+![Format](https://img.shields.io/badge/Format-PDF-orange)
+
+Strengthened function-based implementations, arithmetic operations, and modular problem-solving strategies.
+
+🔗 [View Training Resource](./phase-01-core-fundamentals/2026-01-29-basic-math-and-functions.pdf)
+
+---
+
+### 🟩 Jan 30, 2026 — Algorithmic Game Logic
+
+![Platform](https://img.shields.io/badge/Platform-LeetCode-yellow)
+![Problems](https://img.shields.io/badge/Problems-21-success)
+![Format](https://img.shields.io/badge/Format-PDF-orange)
+
+Implemented game-oriented algorithmic logic, simulation techniques, and strategic conditional processing.
+
+🔗 [View Training Resource](./phase-01-core-fundamentals/2026-01-30-game-logic-and-algorithms.pdf)
+
+---
+
+### 🟨 Feb 01, 2026 — Introduction to 1D Arrays
+
+![Platform](https://img.shields.io/badge/Platform-HackerRank-blue)
+![Problems](https://img.shields.io/badge/Problems-10-success)
+![Format](https://img.shields.io/badge/Format-PDF-orange)
+
+Introduced core array traversal techniques, indexing operations, and sequential data manipulation.
+
+🔗 [View Training Resource](./phase-01-core-fundamentals/2026-02-01-1d-arrays-introduction.pdf)
+
+---
+
+### 🟪 Feb 02, 2026 — Array Traversal & Validation Techniques
+
+![Platform](https://img.shields.io/badge/Platform-HackerRank-blue)
+![Problems](https://img.shields.io/badge/Problems-11-success)
+![Format](https://img.shields.io/badge/Format-PDF-orange)
+
+Focused on array verification logic, traversal optimization, and condition-based validation methods.
+
+🔗 [View Training Resource](./phase-01-core-fundamentals/2026-02-02-1d-arrays-traversal-and-checks.pdf)
+
+---
+
+### 🟥 Feb 03, 2026 — Array Searching & Extreme Value Analysis
+
+![Platform](https://img.shields.io/badge/Platform-HackerRank-blue)
+![Problems](https://img.shields.io/badge/Problems-10-success)
+![Format](https://img.shields.io/badge/Format-PDF-orange)
+
+Worked on search operations, maximum-minimum analysis, and array comparison strategies.
+
+🔗 [View Training Resource](./phase-01-core-fundamentals/2026-02-03-1d-arrays-extremes-and-searching.pdf)
+
+---
+
+### 🟦 Feb 04, 2026 — Simulation-Based Array Problems
+
+![Platform](https://img.shields.io/badge/Platform-HackerRank-blue)
+![Problems](https://img.shields.io/badge/Problems-10-success)
+![Format](https://img.shields.io/badge/Format-PDF-orange)
+
+Practiced simulation-driven array processing and real-world logical problem implementation techniques.
+
+🔗 [View Training Resource](./phase-01-core-fundamentals/2026-02-04-array-word-problems-and-simulations.pdf)
+
+---
+
+### 🟩 Feb 05, 2026 — Subarray Processing & Sliding Window
+
+![Platform](https://img.shields.io/badge/Platform-LeetCode-yellow)
+![Problems](https://img.shields.io/badge/Problems-10-success)
+![Format](https://img.shields.io/badge/Format-PDF-orange)
+
+Implemented subarray evaluation, sliding window optimization, and efficient range-based computation techniques.
+
+🔗 [View Training Resource](./phase-01-core-fundamentals/2026-02-05-subarrays-and-sliding-window.pdf)
+
+---
+
+### 🟨 Feb 06, 2026 — Array Rearrangement & Sorting Logic
+
+![Platform](https://img.shields.io/badge/Platform-HackerRank-blue)
+![Problems](https://img.shields.io/badge/Problems-10-success)
+![Format](https://img.shields.io/badge/Format-PDF-orange)
+
+Focused on array restructuring, sorting logic, and element transformation strategies.
+
+🔗 [View Training Resource](./phase-01-core-fundamentals/2026-02-06-array-rearrangement-and-sorting.pdf)
+
+---
+
+# Phase 02 — Advanced Logic & Algorithmic Practice
+
+---
+
+### 🟦 Feb 25, 2026 — 2D Arrays & Matrix Operations
+
+![Platform](https://img.shields.io/badge/Platform-HackerRank-blue)
+![Problems](https://img.shields.io/badge/Problems-10-success)
+![Format](https://img.shields.io/badge/Format-Markdown-informational)
+
+Worked on matrix traversal, aggregation logic, search operations, and row-column computation techniques.
+
+🔗 [View Solutions](./phase-02-advanced-logic-and-algorithms/2026-02-25-2d-arrays-and-matrix-operations.md)
+
+---
+
+### 🟩 Feb 26, 2026 — Advanced Matrix Validation Techniques
+
+![Platform](https://img.shields.io/badge/Platform-HackerRank-blue)
+![Problems](https://img.shields.io/badge/Problems-10-success)
+![Format](https://img.shields.io/badge/Format-Markdown-informational)
+
+Implemented validation logic for Toeplitz, Sparse, Scalar, and Diagonal matrices along with transposition techniques.
+
+🔗 [View Solutions](./phase-02-advanced-logic-and-algorithms/2026-02-26-advanced-matrices.md)
+
+---
+
+### 🟨 Feb 27, 2026 — Spiral Matrix Patterns & Mathematical Logic
+
+![Platform](https://img.shields.io/badge/Platform-HackerRank-blue)
+![Problems](https://img.shields.io/badge/Problems-3-success)
+![Format](https://img.shields.io/badge/Format-Markdown-informational)
+
+Focused on concentric matrix generation, spiral traversal logic, and matrix multiplication techniques.
+
+🔗 [View Solutions](./phase-02-advanced-logic-and-algorithms/2026-02-27-spiral-patterns-and-matrix-math.md)
+
+---
+
+### 🟪 Mar 02, 2026 — String Manipulation & Anagram Analysis
+
+![Platform](https://img.shields.io/badge/Platform-HackerRank-blue)
+![Problems](https://img.shields.io/badge/Problems-7-success)
+![Format](https://img.shields.io/badge/Format-Markdown-informational)
+
+Practiced character processing, anagram validation, string replacement operations, and transformation logic.
+
+🔗 [View Solutions](./phase-02-advanced-logic-and-algorithms/2026-03-02-string-manipulations-and-anagrams.md)
+
+---
+
+### 🟥 Mar 03, 2026 — Fundamental String Processing
+
+![Platform](https://img.shields.io/badge/Platform-OneCompiler-grey)
+![Problems](https://img.shields.io/badge/Problems-20-success)
+![Format](https://img.shields.io/badge/Format-Markdown-informational)
+
+Focused on string reversal, parsing operations, palindrome validation, ASCII extraction, and slicing techniques.
+
+🔗 [View Solutions](./phase-02-advanced-logic-and-algorithms/2026-03-03-string-fundamentals.md)
+
+---
+
+### 🟦 Mar 04, 2026 — Advanced String Transformations
+
+![Platform](https://img.shields.io/badge/Platform-HackerRank-blue)
+![Problems](https://img.shields.io/badge/Problems-13-success)
+![Format](https://img.shields.io/badge/Format-Markdown-informational)
+
+Implemented case conversion, CamelCase processing, digit extraction, and frequency analysis operations.
+
+🔗 [View Solutions](./phase-02-advanced-logic-and-algorithms/2026-03-04-advanced-strings-and-toggles.md)
+
+---
+
+### 🟩 Mar 06, 2026 — Array Computation & Running Sum Logic
+
+![Platform](https://img.shields.io/badge/Platform-LeetCode-yellow)
+![Problems](https://img.shields.io/badge/Problems-9-success)
+![Format](https://img.shields.io/badge/Format-Markdown-informational)
+
+Worked on prefix sums, transformation logic, sorted computations, and duplicate identification strategies.
+
+🔗 [View Solutions](./phase-02-advanced-logic-and-algorithms/2026-03-06-arrays-and-running-sums.md)
+
+---
+
+### 🟨 Mar 10, 2026 — Binary Search & String Algorithms
+
+![Platform](https://img.shields.io/badge/Platform-LeetCode%20%2F%20HackerRank-purple)
+![Problems](https://img.shields.io/badge/Problems-8-success)
+![Format](https://img.shields.io/badge/Format-Markdown-informational)
+
+Focused on Binary Search implementation, frequency analysis, Pangram validation, and constrained reversal logic.
+
+🔗 [View Solutions](./phase-02-advanced-logic-and-algorithms/2026-03-10-strings-and-binary-search.md)
+
+---
+
+### 🟥 Mar 11, 2026 — Frequency Analysis & Array Replacement Logic
+
+![Platform](https://img.shields.io/badge/Platform-HackerRank-blue)
+![Problems](https://img.shields.io/badge/Problems-6-success)
+![Format](https://img.shields.io/badge/Format-Markdown-informational)
+
+Implemented replacement strategies, frequency-based transformations, and optimization-oriented string operations.
+
+🔗 [View Solutions](./phase-02-advanced-logic-and-algorithms/2026-03-11-frequencies-and-array-replacements.md)
+
+---
+
+## 💻 Technical Competencies Strengthened
 
 - Java Programming
 - Data Structures & Algorithms
@@ -115,7 +354,7 @@ Key focus areas include:
 
 ---
 
-## Learning Philosophy
+## 📌 Learning Philosophy
 
 Focused on building strong engineering fundamentals through consistency-driven problem solving, progressive algorithmic practice, and structured technical learning.
 
